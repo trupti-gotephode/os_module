@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
 	fork();  
 	printf("AFTER FORK %d\n",getpid());
 	
-	return 0;
+	return 0;cd
 }
 
        
